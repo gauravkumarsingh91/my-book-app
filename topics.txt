@@ -1,0 +1,9 @@
+
+
+TypeORM
+- About TypeORM
+- Load configuration					// https://docs.nestjs.com/techniques/configuration#configuration
+- TypeORM Integration with database		// https://docs.nestjs.com/techniques/database
+- Repository Pattern					// https://www.tutorialspoint.com/typeorm/typeorm_entity.htm
+- Custom Repository
+- Relations 							// https://www.tutorialspoint.com/typeorm/typeorm_relations.htm && https://github.com/typeorm/typeorm/blob/master/docs/relations.md#cascades && https://codersera.com/blog/typeorm-with-nest-js-tutorial/
